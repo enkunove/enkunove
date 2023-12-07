@@ -4,6 +4,6 @@
 
 <div id="badges" align = "center">
   <a href="http://t.me/poifdgk">
-    <img src="[https://w7.pngwing.com/pngs/673/236/png-transparent-telegram-app-logo-icon-application-symbol-message-messaging-app-technology-social-media-thumbnail.png](https://w7.pngwing.com/pngs/723/481/png-transparent-telegram-computer-icons-logo-instant-messaging-logo-telegram-blue-angle-triangle.png)https://w7.pngwing.com/pngs/723/481/png-transparent-telegram-computer-icons-logo-instant-messaging-logo-telegram-blue-angle-triangle.png?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    <img src="https://w7.pngwing.com/pngs/723/481/png-transparent-telegram-computer-icons-logo-instant-messaging-logo-telegram-blue-angle-triangle.png?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
