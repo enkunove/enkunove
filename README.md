@@ -9,7 +9,7 @@
 - 🌟 I'm a skilled 3D artist with a passion for creating amazing visual experiences.
 - 💻 I specialize in modeling, sculpting, animating and texturing game-ready models and сut-scenes.
 - ✨ Working with Blender 3D, Adobe Substance Painter, Unity 3D, Unreal Engine.
-- 🌟 3 years of hands-on experience working with <a href="https://www.instagram.com/regolithstudio/" target="_blank">Regolith Studio</a>.
+- 🌟 3 years of hands-on experience working with <a href="https://www.instagram.com/regolithstudios/" target="_blank">Regolith Studios</a>.
 - 🚀 Check out my work examples on   .
 
 ## Contact Me
