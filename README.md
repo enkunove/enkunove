@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT0GqjBCkO9BEiSEOk/giphy.gif" width="200" alt="GIF">
 </div>
-# Hi there! 👋
+## Hi there! 👋
 
-I'm Egor, a passionate 3D creator.
+3D creator.
 ## About Me
 
 - 🌟 I'm a skilled 3D artist with a passion for creating amazing visual experiences.
