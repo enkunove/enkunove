@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xT0GqjBCkO9BEiSEOk/giphy.gif" width="200" alt="GIF">
 </div>
 
-## 3-d creeator
+## 3-d creator
 
 ## About Me
 
