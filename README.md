@@ -1,7 +1,7 @@
 <div id="header" align="center" style="padding: 20px;">
   <h1>Mobile Application Developer</h1>
   <img src="https://media.giphy.com/media/xT0GqjBCkO9BEiSEOk/giphy.gif" width="200" alt="GIF">
-  <p>I develop cross-platform frontends for mobile applications using the Flutter framework with Dart</p>
+  <p>I develop cross-platformed mobile applications using the Flutter framework with Dart</p>
 </div>
 
 <div id="badges" align="center" style="padding: 20px;">
