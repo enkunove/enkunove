@@ -1,5 +1,5 @@
 <div id="header" align="center" style="padding: 20px;">
-  <h1>Mobile Application Developer</h1>
+  <h1>Flutter Developer</h1>
   <img src="https://media.giphy.com/media/xT0GqjBCkO9BEiSEOk/giphy.gif" width="200" alt="GIF">
   <p>I develop cross-platform applications using the Flutter framework with Dart</p>
 </div>
